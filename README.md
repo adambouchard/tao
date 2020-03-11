@@ -16,10 +16,8 @@ Why
 6. Maintainability 
     - Easy to learn -
        - guides
-       - additional videl
     - No 3rd party dependencies
-      - 
-      written in Elixir, which compiles into Erlang to run 
+      - written in Elixir.  Elixir compiles into Erlang to run on Erlang VM 
 
 ## How to use
 
@@ -35,7 +33,6 @@ Why
 - tao_conform
 - tao_perform
 - tao_analyze
-
 
 
 ## Installation
